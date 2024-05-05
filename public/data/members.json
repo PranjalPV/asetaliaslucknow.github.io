@@ -334,5 +334,21 @@
         "link": "https://github.com/CoderKundu"
       }
     ]
+  },
+  {
+    "id": 22,
+    "image": "assets/images/members/Pranjal.png",
+    "name": "Pranjal Verma",
+    "role": "Volunteer",
+    "social": [
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/pranjal-verma-351546246/"
+      },
+      {
+        "id": "github",
+        "link": "https://github.com/PranjalPV"
+      }
+    ]
   }
 ]
